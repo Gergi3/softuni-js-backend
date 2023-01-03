@@ -1,0 +1,18 @@
+[submodule "js-backend-nosql-and-mongodb-lab"]
+	path = js-backend-nosql-and-mongodb-lab
+	url = git@github.com:Gergi3/js-backend-nosql-and-mongodb-lab.git
+[submodule "js-backend-workshop"]
+	path = js-backend-workshop
+	url = git@github.com:Gergi3/js-backend-workshop.git
+[submodule "js-backend-session-and-authentication-lab"]
+	path = js-backend-session-and-authentication-lab
+	url = git@github.com:Gergi3/js-backend-session-and-authentication-lab.git
+[submodule "js-backend-template"]
+	path = js-backend-template
+	url = git@github.com:Gergi3/js-backend-template.git
+[submodule "express-handlebars-lab"]
+	path = express-handlebars-lab
+	url = git@github.com:Gergi3/express-handlebars-lab.git\\
+[submodule "nodejs-introduction"]
+	path = nodejs-introduction
+	url = git@github.com:Gergi3/nodejs-introduction.git
